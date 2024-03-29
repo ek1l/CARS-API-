@@ -1,6 +1,6 @@
 # M4 - Cars API
 
-Neste projeto, estaremos desenvolvendo uma API para gerenciar uma lista de carros, para isso, desenvolveremos cada uma das rotas abaixo com base no que aprendemos até agora
+Neste projeto, desenvolvi uma API para gerenciar uma lista de carros.
 
 ## Rotas
 
